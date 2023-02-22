@@ -3,7 +3,7 @@ Un tool discord pour envoyer des messages à un webhook ou supprimer un webhook.
 [__VIDEO de présentation__](https://i.imgur.com/yFnDeCn.mp4)
 
 
-## Usage/Examples
+## Usage/Exemples
 
 ### Les différents modes:
 * [1] Spammer des messages avec un ou plusieurs webhook
