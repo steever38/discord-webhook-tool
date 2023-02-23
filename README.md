@@ -38,7 +38,7 @@ Un tool discord pour envoyer des messages à un webhook ou supprimer un webhook.
 3. Consulter les webhooks
 4. Nouveau webhook
 5. Cliquez sur le webhook
-6. Copier l'URL du webhook
+6. Copier l'URL du webhook  
 Note: il faut avoir les permissions pour pouvoir créer un webhook.
 
 ### C'est quoi le paramètre tts?
