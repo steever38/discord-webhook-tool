@@ -1,7 +1,7 @@
 @echo off & "%__APPDIR__%chcp.com" 65001 >nul
 :mode
 cls
-title webhook tool by steever38#0001
+title webhook tool by steever38#0252
 set /a messages=0
 set /a messages_send=0
 ::::   _____        _              _                           _       
