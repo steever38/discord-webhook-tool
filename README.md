@@ -46,7 +46,7 @@ Note: il faut avoir les permissions pour pouvoir créer un webhook.
 Ce paramètre permet qu'une voix lise le texte quand le message est envoyé dans le salon. Tous les utilisateurs présents dans le salon entendrons le message.
 ## Support
 
-Pour le support, discord: steever38#2655 ou https://discord.gg/yCggt695tT.
+Pour le support, discord: steever38 ou https://discord.gg/yCggt695tT.
 
 
 ### Attention:
